@@ -53,7 +53,7 @@ class chatbot(discord.Client):
             # 현재 채널을 받아옴
             channel = message.channel
             # 답변 내용 구성
-            msg = "https://www.youtube.com/watch?v=cKmhab15cCc"
+            msg = "(대충 유튜브)"
             # msg에 지정된 내용대로 메시지를 전송
             await channel.send(msg)
             return None
