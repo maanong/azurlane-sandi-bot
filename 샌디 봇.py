@@ -64,4 +64,4 @@ if __name__ == "__main__":
     # 객체를 생성
     client = chatbot(intents=discord.Intents.all())
     # TOKEN 값을 통해 로그인하고 봇을 실행
-    client.run("MTA4MTU4NzE2NzYwMTYzNTQyOA.GS8rdE.b8V0ccQILg4WX6LdgSbssBE5byrATgwQTIpeF8")
+    client.run("TOKEN")
